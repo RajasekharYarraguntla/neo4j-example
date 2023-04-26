@@ -1,4 +1,4 @@
-package com.evoke.neo4jexample;
+package com.evoke;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
